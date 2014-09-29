@@ -4,7 +4,7 @@
 	Plugin URI: http://www.pixelovely.com/format-web-content-wordpress/
 	Description: Removes those extra-tempting but extra-problematic buttons from tinyMCE, like font color, alignment, and other things that will wreck your style sheet. Encourages the use of the "role" dropdown.
 	Author: PIXELovely
-	Version: 1.0.0
+	Version: 1.0.1
 	Author URI: http://www.PIXELovely.com/
  */
 
@@ -30,7 +30,7 @@ if (isset($wp_version)) {
 function pix_extended_editor_mce_buttons($buttons) {
 return array(
 "undo", "redo", "separator",
-"bold", "italic", "underline", "strikethrough", "separator",
+"bold", "italic", "strikethrough", "separator",
 "bullist", "numlist", "separator",
 "charmap", "separator", "link", "unlink", "anchor", "blockquote", 
 "separator", 
