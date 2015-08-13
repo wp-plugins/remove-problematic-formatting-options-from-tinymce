@@ -3,8 +3,8 @@
 	Plugin Name: Remove Problematic Formatting Options From tinyMCE
 	Plugin URI: http://www.pixelovely.com/format-web-content-wordpress/
 	Description: Removes those extra-tempting but extra-problematic buttons from tinyMCE, like font color, alignment, and other things that will wreck your style sheet. Encourages the use of the "role" dropdown.
-	Author: PIXELovely
-	Version: 1.0.1
+	Author: PIXELovely Web Design & Development
+	Version: 1.0.2
 	Author URI: http://www.PIXELovely.com/
  */
 
